@@ -10,7 +10,7 @@ include Paramble
   @@songs = []
 
   def initialize
-   self.class.all << self
+   
   end
 
   
